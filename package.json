@@ -12,15 +12,4 @@
   "scripts": {
     "test": "node server.js",
     "start": "node server.js"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/harshitagupta30/weather-journal-app.git"
-  },
-  "author": "harshitagupta310@gmail.com",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/harshitagupta30/weather-journal-app/issues"
-  },
-  "homepage": "https://github.com/harshitagupta30/weather-journal-app#readme"
 }
